@@ -149,7 +149,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_FILES['photo'])) {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Top 10 Banki Newz</title>
+  <title>Top 10 Newz</title>
   <link rel="icon" href="https://www.youtube.com/favicon.ico" type="image/x-icon">
   <script src="https://cdn.tailwindcss.com"></script>
   <style>
